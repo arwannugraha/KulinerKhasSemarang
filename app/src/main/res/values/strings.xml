@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Kuliner Semarang</string>
+    <string name="action_settings">Keluar</string>
+
+    <!-- Strings for labels on app screen. -->
+    <string name="kuliner_semarang">Kuliner</string>
+    <string name="kuliner">Kuliner</string>
+
+
+    <!-- An array of strings for superhero facts. -->
+    <string-array name="kuliner_details_array">
+        <item>Lumpia semarang adalah makanan yang berisi rebung muda, telur, dan daging ayam atau udang.
+            Makanan ini pertama kali dibawa masuk ke Kota Semarang pada tahun 1930 oleh seorang pemuda Tiongkok bernama Jwa Dayu.
+            Cita rasa lumpia semarang adalah perpaduan rasa antara Tionghoa dan Indonesia.
+            \n\nLumpia yang paling terkenal di semarang adalah  Lumpia Gang Lombok  atau Warung Siem.
+            Ada 2 jenis lunpia yang bisa dipesan di sini, yaitu lumpia basah Dan lumpia Kering, yaitu lunpia yang sudah di goreng.
+            Lunpia disajikan dengan saus yang ditaburi cacahan bawang putih, cabe rawit, dan bawang muda.</item>
+        <item>Roti ganjel rel adalah roti khas Semarang. Ganjel rel juga biasa disebut kue gambang.
+            Roti ganjel rel merupakan salah satu peninggalan Belanda.
+            Resep yang digunakan dari dulu sampai sekarang tidak pernah berubah, masih asli dari zaman Belanda dulu.
+            \n\nDisebut ganjel rel, karena selain teksturnya yang bantat, dan juga bentuknya yang seperti ganjel rel (bantalan rel).
+            Roti ganjel rel bertekstur agak alot, namun sangat baik bagi pencernaan.
+            Roti ganjel rel berbentuk kotak dan berwarna coklat bertabur wijen.
+            rasa roti ganjel rel bercita rasa kayu manis.
+            Teksturnya ulet dan padat dipadu dengan aroma coklat dan kayu manis yang nendang di lidah.
+            Karena teksturnya yang ulet, jika makan 2 potong saja sudah cukup mengenyangkan di perut.</item>
+        <item>Wedang tahu adalah minuman yang beraromakan jahe dan berisi kembang tahu yang terbuat dari sari kedelai.
+            Konon wedang tahu ini berasal dari Tiongkok yang dikenal sebagai minuman khas Semarang.
+            Minuman ini berkhasiat sebagai penghangat tubuh dan sangat cocok bila dinikmati pada musim hujan, pada pagi ataupun sore hari.
+            \n\nWedang Tahu konon berasal dari negeri Tiongkok yang dibawa ke Indonesia pada akhir abad ke-19, oleh seorang imigran dari negeri tersebut sehingga menjadi minuman khas Semarang.
+            Wedang tahu terbuat dari susu kedelai yang dicampur dengan air garam, dan bubuk agar-agar yang dimasak sehingga menjadi kembang tahu atau tahu sutera, yang akan dijadikan sebagai isi dari wedang tahu tersebut.
+            Penjual wedang tahu biasa menjajakannya dengan pikulan atau berada di pinggir jalan dan untuk menarik perhatian para calon pembeli, mereka membunyikan piranti musik teng-teng berukuran mini dengan pemukul dari kayu.</item>
+        <item>Bandeng presto adalah makanan khas Indonesia yang berasal dari Kota Semarang, Jawa Tengah.
+            Makanan ini dibuat dari ikan bandeng yang dibumbui dengan bawang putih, kunyit, dan garam.
+            Asal mulanya ditemukan oleh Hanna Budimulya yang lahir di kota Pati, Jawa Tengah.
+            Ikan bandeng ini kemudian dimasak pada alas daun pisang dengan cara presto.
+            Presto adalah cara memasak dengan uap air yang bertekanan tinggi.
+            \n\nMakanan yang dimasak dengan cara ini diletakkan dalam panci yang dapat dikunci dengan rapat.
+            Air yang berada di dalam panci ini kemudian dipanaskan hingga mendidih.
+            Uap air yang timbul akan memasak makanan yang berada di dalam panci ini.
+            Karena ikan bandeng terkenal memiliki banyak duri, bandeng presto adalah makanan yang digemari karena dengan cara masak presto duri-duri ini menjadi sangat lunak.
+            Bandeng presto biasanya di hidangkan dengan sambal terasi dan nasi hangat.</item>
+        <item>Tahu petis adalah jajanan khas kota Semarang berupa tahu goreng yang dimakan dengan petis (saus berwarna hitam kental yang biasanya terbuat dari udang) yang dioleskan atau disisipkan di tengah-tengah tahu.
+            Seperti tahu pong, tapi rasanya tidak asin, yaitu berasal dari tahu putih yang digoreng sampai kecokelatan tanpa dibumbui atau dibumbui dengan larutan garam dan bawang putih saja.
+            Sedangkan petisnya berasa manis agak sedikit asin.
+            \n\nAgar menggugah selera, tahu petis biasanya dimakan dengan cabai rawit.
+            Keunikan makanan ini ada pada bumbu petis berbahan dasar udang yang diracik dengan bumbu spesial sehingga menghasilkan petis udang siap saji yang bearoma harum dan tidak menyengat.
+            Dipadu dengan tahu pong yang segar dan renyah sehingga menambah kelezatannya.</item>
+         <item>Mi kopyok adalah salah satu makanan khas Semarang.
+             Dibandingkan dengan varian mie lainnya, mi kopyok mempunyai citra rasa yang berbeda,
+             \n\nsebagai bahan campuran mie kopyok adalah taoge, lontong, irisan tahu dan karak gendar.
+             Tak lupa bumbu bawang garam yang dilarutkan air.
+             Disebut kopyok karena larutan bumbu bawang garam yang ditaruh dalam botol itu dituang ke dalam piring dengan cara di kopyok.</item>
+        <item>Kue Moci Semarang memiliki bentuk bulat kenyal terbuat dari tepung ketan dengan kacang sebagai isinya dan dilaburi tepung pada bagian luarnya.
+            Moci semarang yang terkenal yaitu Moci Gemini.
+            \n\nKelebihan kue moci Gemini karena kue itu terasa lebih gurih di lidah dan taburan atasnya bervariasi,
+            salah satunya adalah wijen. Kue Moci telah mengalami variasi dalam rasa.
+            Rasa durian adalah salah satu yang paling dicari bila wisatawan saat berada di Semarang.</item>
+        <item>Tahu gimbal adalah sekian dari makanan khas Kota Semarang.
+            Yang khas dari tahu gimbal tersebut adalah gimbal itu.
+            Gimbal adalah semacam bakwan goreng yang berisi udang yang digoreng kering,
+            \n\ndengan perpaduan rasa yang pas antara gurih, manis, dan pedas.
+            Ditambah lontong, kol, tahu dan taoge serta telur goreng sebagai pelengkapnya.
+            Tempat yang bias menikmati tahu gimbal di daerah Simpang Lima dan Taman KB di Jalan Mentri Supeno.
+            Namun jika kamu ingin membuatnya, berikut resep cara membuat tahu gimbal. </item>
+        <item>Wingko adalah sejenis kue yang terbuat dari kelapa, beras ketan, dan bahan-bahan lainnya.
+            Kue ini sering dijual di stasiun kereta api, stasiun bus atau juga di toko-toko kue.
+            Di pulau Jawa, Wingko juga sering menjadi oleh-oleh untuk keluarga, yang menjadikan kue ini terkenal.
+            Ini menyebabkan banyak orang yang mengira bahwa wingko juga berasal dari kota Semarang.
+            Meskipun demikian, wingko babat sebenarnya berasal dari Babat.
+            Ini adalah daerah kecil di Lamongan, Jawa Timur.
+            \n\nBabat terletak di dekat Bojonegoro, Jawa Timur yang terkenal akan kayunya dan karena baru saja ditemukan sumber minyak di daerah ini.
+            Wingko biasanya berbentuk bundar dan agak keras serta biasa disajikan dalam keadaan hangat dan dipotong kecil-kecil.
+            Wingko dapat dijual dalam bentuk bundar yang besar atau juga berupa kue-kue kecil yang dibungkus kertas.
+            Kombinasi gula dan kelapa menjadikan kue ini nikmat.
+            Harga kue ini dapat bervariasi tergantung tempat menjualnya dan merek wingko ini.</item>
+        <item>Babat gongso adalah potongan Babat dan juga jeroan lainnya, seperti ati, limpa, paru atau iso,
+            yang dimasak dengan bumbu kecap yang kental. Rasa manis dan pedas begitu terasa.
+            \n\nTak hanya itu, babat ini sangat empuk.
+            Kamu bisa menemukannya di Nasi Goreng Pak Karmin, Jl Pemuda (Samping Jembatan Mberok), Semarang.</item>
+        <item>Tahu pong adalah makanan berbahan dasar tahu tanpa isi alias kopong (kosong).
+            Tahu pong biasanya langsung digoreng saat kita memesannya.
+            Tahu Pong enak disantap saat panas. Lalu dicocol petis udang yang encer, berteman acar dan ulekan kasar cabai hijau.
+            \n\nRasanya sungguh membuat ketagihan. Harga seporsi tahu ini adalah Rp 6 ribu.
+            Kamu bisa menemukan penjual tahu pong di Simpang Lima, atau yang terkenal adalah di Jl Gajah Mada,
+            berseberangan dengan Gereja Bethel.</item>
+        <item>Nasi Gandul berwujud nasi putih hangat yang disajikan bersama lauk dari sapi, bisa daging, lidah,
+            jeroan, paru, apapun bagian lainnya dari badan sapi.
+            Lalu diguyur kuah campuran kaldu dan santan berwarna kecoklatan, keruh dan encer.
+            Sebagai pelengkap ialah jeruk nipis, tempe yang digoreng garing serta sambal.
+            \n\nPaling enak dinikmati sembari diselingi teh manis panas.
+            Nasi Gandul paling nikmat disantap pada malam hari dan saat hujan.
+            Selain makanan-makanan di atas, masih banyak lagi kuliner yang terdapat di Semarang.
+            Jika kamu kebetulan berkunjung ke Semarang, tidak ada salahnya mencoba makanan khas di atas.</item>
+
+    </string-array>
+
+</resources>
